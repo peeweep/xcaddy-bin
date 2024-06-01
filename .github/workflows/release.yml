@@ -1,0 +1,28 @@
+name: Release caddy binaries
+
+on:
+  push:
+    tags:
+    - 'v*'
+
+jobs:
+  build:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+
+      - name: Build
+        run: |
+          make
+
+      - name: Upload caddy binaries to release artifaces
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            bin/caddy-linux-amd64
+            bin/caddy-linux-armv8
