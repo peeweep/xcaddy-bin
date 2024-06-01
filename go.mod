@@ -9,6 +9,7 @@ require (
 	github.com/porech/caddy-maxmind-geolocation v0.0.0-20240317120312-8794ba5a3a9f
 )
 
+// https://github.com/caddy-dns/rfc2136/pull/5
 replace github.com/caddy-dns/rfc2136 => github.com/Monviech/caddy-dns-rfc2136 v0.0.0-20240531172810-90072ec69f5d
 
 require (
