@@ -23,6 +23,4 @@ jobs:
       - name: Upload caddy binaries to release artifaces
         uses: softprops/action-gh-release@v1
         with:
-          files: |
-            bin/caddy-linux-amd64
-            bin/caddy-linux-armv8
+          files: bin/*
