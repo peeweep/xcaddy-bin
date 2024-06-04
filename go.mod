@@ -10,6 +10,8 @@ require (
 	github.com/porech/caddy-maxmind-geolocation v0.0.0-20240317120312-8794ba5a3a9f
 )
 
+replace github.com/caddy-dns/google-domains => github.com/peeweep/caddy-dns-google-domains v0.0.0-20240604142014-90a77a7908e4
+
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
