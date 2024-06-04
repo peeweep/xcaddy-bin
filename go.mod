@@ -4,6 +4,7 @@ go 1.22.3
 
 require (
 	github.com/caddy-dns/cloudflare v0.0.0-20240405130444-44030f9306f4
+	github.com/caddy-dns/google-domains v0.0.0-20230209201753-f8efef531ada
 	github.com/caddy-dns/rfc2136 v0.1.1-0.20240604054359-b8df5e8730c9
 	github.com/caddyserver/caddy/v2 v2.8.4
 	github.com/porech/caddy-maxmind-geolocation v0.0.0-20240317120312-8794ba5a3a9f
