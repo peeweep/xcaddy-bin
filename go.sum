@@ -79,8 +79,6 @@ github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/caddy-dns/cloudflare v0.0.0-20240405130444-44030f9306f4 h1:Qoyce5QX9p7G5ySk2na3lHOHwp08TyeypR18DSLt3KE=
 github.com/caddy-dns/cloudflare v0.0.0-20240405130444-44030f9306f4/go.mod h1:Hg2SNb9171Ezb+8uoUXvCp2mF+gHgDXxEl6RMvCmBIk=
-github.com/caddy-dns/rfc2136 v0.1.1-0.20240604054359-b8df5e8730c9 h1:IR5C+2ilig8VKsf4Rd6DBc0LXhnl2DW6bTeBssNj4VU=
-github.com/caddy-dns/rfc2136 v0.1.1-0.20240604054359-b8df5e8730c9/go.mod h1:BMmIfdn6YkkY3Ja/MhwOXzVj8vb0FhEBbMavPL/gX0Q=
 github.com/caddyserver/caddy/v2 v2.8.4 h1:q3pe0wpBj1OcHFZ3n/1nl4V4bxBrYoSoab7rL9BMYNk=
 github.com/caddyserver/caddy/v2 v2.8.4/go.mod h1:vmDAHp3d05JIvuhc24LmnxVlsZmWnUwbP5WMjzcMPWw=
 github.com/caddyserver/certmagic v0.21.3 h1:pqRRry3yuB4CWBVq9+cUqu+Y6E2z8TswbhNx1AZeYm0=
@@ -303,8 +301,6 @@ github.com/libdns/cloudflare v0.1.1 h1:FVPfWwP8zZCqj268LZjmkDleXlHPlFU9KC4OJ3yn0
 github.com/libdns/cloudflare v0.1.1/go.mod h1:9VK91idpOjg6v7/WbjkEW49bSCxj00ALesIFDhJ8PBU=
 github.com/libdns/libdns v0.2.2 h1:O6ws7bAfRPaBsgAYt8MDe2HcNBGC29hkZ9MX2eUSX3s=
 github.com/libdns/libdns v0.2.2/go.mod h1:4Bj9+5CQiNMVGf87wjX4CY3HQJypUHRuLvlsfsZqLWQ=
-github.com/libdns/rfc2136 v0.1.0 h1:BlGOPfx/R3xqKrgHT9TlreA8Ulw8ti8+VtJj8E0H9hE=
-github.com/libdns/rfc2136 v0.1.0/go.mod h1:tgXWavE+5OiAfdKxBnuG8OBEwQFAu7uuiS3+laspAGs=
 github.com/magiconair/properties v1.8.0/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
 github.com/manifoldco/promptui v0.9.0 h1:3V4HzJk1TtXW1MTZMP7mdlwbBpIinw3HztaIlYthEiA=
 github.com/manifoldco/promptui v0.9.0/go.mod h1:ka04sppxSGFAtxX0qhlYQjISsg9mR4GWtQEhdbn6Pgg=

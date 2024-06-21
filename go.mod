@@ -4,7 +4,6 @@ go 1.22.3
 
 require (
 	github.com/caddy-dns/cloudflare v0.0.0-20240405130444-44030f9306f4
-	github.com/caddy-dns/rfc2136 v0.1.1-0.20240604054359-b8df5e8730c9
 	github.com/caddyserver/caddy/v2 v2.8.4
 	github.com/porech/caddy-maxmind-geolocation v0.0.0-20240317120312-8794ba5a3a9f
 )
@@ -70,7 +69,6 @@ require (
 	github.com/klauspost/cpuid/v2 v2.2.7 // indirect
 	github.com/libdns/cloudflare v0.1.1 // indirect
 	github.com/libdns/libdns v0.2.2 // indirect
-	github.com/libdns/rfc2136 v0.1.0 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
