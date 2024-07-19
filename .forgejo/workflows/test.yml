@@ -19,4 +19,7 @@ jobs:
         run: |
           go mod download
           make
+
+      - name: Test
+        run: |
           bash test.sh
