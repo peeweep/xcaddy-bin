@@ -4,7 +4,7 @@ example.com {
 			key_name "caddy"
 			key_alg "hmac-sha256"
 			key "tsin-secret"
-			servers "dnsserver:53"
+			server "dnsserver:53"
 		}
 	}
 }
