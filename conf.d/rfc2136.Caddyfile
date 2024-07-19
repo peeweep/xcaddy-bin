@@ -1,0 +1,10 @@
+example.com {
+	tls {
+		dns rfc2136 {
+			key_name "caddy"
+			key_alg "hmac-sha256"
+			key "tsin-secret"
+			server "dnsserver:53"
+		}
+	}
+}
