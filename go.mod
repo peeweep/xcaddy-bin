@@ -3,6 +3,7 @@ module github.com/peeweep/xcaddy-bin
 go 1.22.3
 
 require (
+	github.com/WeidiDeng/caddy-cloudflare-ip v0.0.0-20231130002422-f53b62aa13cb
 	github.com/caddy-dns/cloudflare v0.0.0-20240703190432-89f16b99c18e
 	github.com/caddy-dns/directadmin v0.3.1
 	github.com/caddy-dns/rfc2136 v0.1.1-0.20240604054359-b8df5e8730c9
