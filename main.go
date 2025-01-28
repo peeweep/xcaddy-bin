@@ -6,9 +6,9 @@ import (
 	// plug in Caddy modules here
 	_ "github.com/caddy-dns/cloudflare"
 	_ "github.com/caddy-dns/directadmin"
+	_ "github.com/caddy-dns/hetzner"
 	_ "github.com/caddy-dns/rfc2136"
 	_ "github.com/caddyserver/caddy/v2/modules/standard"
-	_ "github.com/porech/caddy-maxmind-geolocation"
 )
 
 func main() {

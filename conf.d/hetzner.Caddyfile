@@ -1,0 +1,5 @@
+example.com {
+	tls {
+		dns hetzner {env.YOUR_HETZNER_AUTH_API_TOKEN}
+	}
+}

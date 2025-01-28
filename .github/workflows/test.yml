@@ -15,6 +15,14 @@ jobs:
         with:
           go-version: 'stable'
 
-      - name: Build
+      - name: Build and validate
         run: |
+          # build
+          echo "::group::Build binaries"
+          go mod download
           make
+          echo "::endgroup::"
+          # validate
+          echo "::group::Validate Caddyfiles"
+          bash caddy-validate.sh
+          echo "::endgroup::"

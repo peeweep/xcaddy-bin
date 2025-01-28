@@ -1,0 +1,10 @@
+example.com {
+	tls {
+		dns directadmin {
+			host "https://directadmin-server.com:2222"
+			user "username"
+			login_key "myloginkey"
+			insecure_requests "false"
+		}
+	}
+}
