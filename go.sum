@@ -92,8 +92,8 @@ github.com/bradfitz/go-smtpd v0.0.0-20170404230938-deb6d6237625/go.mod h1:HYsPBT
 github.com/buger/jsonparser v0.0.0-20181115193947-bf1c66bbce23/go.mod h1:bbYlZJ7hK1yFx9hf58LP0zeX7UjIGs20ufpu3evjr+s=
 github.com/caddy-dns/cloudflare v0.0.0-20240703190432-89f16b99c18e h1:POEJXMmSOMJP/73oM/riQTDMg0yjQYlA7nVjyt1+5p8=
 github.com/caddy-dns/cloudflare v0.0.0-20240703190432-89f16b99c18e/go.mod h1:Osdy4yUAPsR2u4cN1+n/AQ1kleviUcOBZlNB0Dt28gI=
-github.com/caddy-dns/directadmin v0.3.1 h1:qAwcJ8gBf9BUPKNNfbFIGWI2wlTvXhFcUl6xgbpCfDw=
-github.com/caddy-dns/directadmin v0.3.1/go.mod h1:cdRiXsqrWeeNTcwKkRnWRfVs2cENb3ZdZuSDCugnhXc=
+github.com/caddy-dns/directadmin v0.3.2 h1:ETlyfZDGzIkCcESi/FrCLy8mJy9SjnaTP3VWei2FED0=
+github.com/caddy-dns/directadmin v0.3.2/go.mod h1:3w/VDAWHGaHid1NiNJrEurxl5Ve7868mKLtQgjmaIdM=
 github.com/caddy-dns/hetzner v0.0.2-0.20240820184004-23343c04385f h1:0L+VoREwongxalDDDQF3eF+BFqpSHAJUN9tER7N9fJE=
 github.com/caddy-dns/hetzner v0.0.2-0.20240820184004-23343c04385f/go.mod h1:CdA4zLq2g5qZvB1VqU1VzcIEaYVT+1lGDVYZsF2o+IM=
 github.com/caddy-dns/rfc2136 v0.1.1 h1:6DIQ0UrDwQeoADl4vSTl569yCWSX8eeIfmULx7miA4A=
@@ -281,8 +281,8 @@ github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0
 github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
 github.com/libdns/cloudflare v0.1.2-0.20240604123710-0549667a10ab h1:tX5H3Liz1eTJBbQK2/zs3tmWf79jCKplqQ38AIi/qW4=
 github.com/libdns/cloudflare v0.1.2-0.20240604123710-0549667a10ab/go.mod h1:9VK91idpOjg6v7/WbjkEW49bSCxj00ALesIFDhJ8PBU=
-github.com/libdns/directadmin v0.3.1 h1:x/epkUHX4We68p8EaTxE4sMq8iy0giOElAKpOg1ZFAA=
-github.com/libdns/directadmin v0.3.1/go.mod h1:VhiBrgenySGFsFUaESeTFBRmEnDHZ0Bek+AAZitrfYo=
+github.com/libdns/directadmin v0.3.2 h1:xX8DeaKOhs8JWKvzmq+Ggl88YVuYv66oxo+zKllKTPA=
+github.com/libdns/directadmin v0.3.2/go.mod h1:VhiBrgenySGFsFUaESeTFBRmEnDHZ0Bek+AAZitrfYo=
 github.com/libdns/hetzner v0.0.2-0.20240819042430-7c70fbb078a0 h1:JcVrIK7E15+nMaf4qlVxIcPfuu+4sK9GTZGffRsSqZk=
 github.com/libdns/hetzner v0.0.2-0.20240819042430-7c70fbb078a0/go.mod h1:zBA7coNLXqqIe9bzW5cuzkwnqN1HXJoeiVTPnA4WBZk=
 github.com/libdns/libdns v0.2.2 h1:O6ws7bAfRPaBsgAYt8MDe2HcNBGC29hkZ9MX2eUSX3s=
