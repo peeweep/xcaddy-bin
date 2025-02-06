@@ -94,8 +94,6 @@ github.com/caddy-dns/cloudflare v0.0.0-20240703190432-89f16b99c18e h1:POEJXMmSOM
 github.com/caddy-dns/cloudflare v0.0.0-20240703190432-89f16b99c18e/go.mod h1:Osdy4yUAPsR2u4cN1+n/AQ1kleviUcOBZlNB0Dt28gI=
 github.com/caddy-dns/directadmin v0.3.2 h1:ETlyfZDGzIkCcESi/FrCLy8mJy9SjnaTP3VWei2FED0=
 github.com/caddy-dns/directadmin v0.3.2/go.mod h1:3w/VDAWHGaHid1NiNJrEurxl5Ve7868mKLtQgjmaIdM=
-github.com/caddy-dns/hetzner v0.0.2-0.20240820184004-23343c04385f h1:0L+VoREwongxalDDDQF3eF+BFqpSHAJUN9tER7N9fJE=
-github.com/caddy-dns/hetzner v0.0.2-0.20240820184004-23343c04385f/go.mod h1:CdA4zLq2g5qZvB1VqU1VzcIEaYVT+1lGDVYZsF2o+IM=
 github.com/caddy-dns/rfc2136 v0.1.1 h1:6DIQ0UrDwQeoADl4vSTl569yCWSX8eeIfmULx7miA4A=
 github.com/caddy-dns/rfc2136 v0.1.1/go.mod h1:BMmIfdn6YkkY3Ja/MhwOXzVj8vb0FhEBbMavPL/gX0Q=
 github.com/caddyserver/caddy/v2 v2.9.1 h1:OEYiZ7DbCzAWVb6TNEkjRcSCRGHVoZsJinoDR/n9oaY=
@@ -283,8 +281,6 @@ github.com/libdns/cloudflare v0.1.2-0.20240604123710-0549667a10ab h1:tX5H3Liz1eT
 github.com/libdns/cloudflare v0.1.2-0.20240604123710-0549667a10ab/go.mod h1:9VK91idpOjg6v7/WbjkEW49bSCxj00ALesIFDhJ8PBU=
 github.com/libdns/directadmin v0.3.2 h1:xX8DeaKOhs8JWKvzmq+Ggl88YVuYv66oxo+zKllKTPA=
 github.com/libdns/directadmin v0.3.2/go.mod h1:VhiBrgenySGFsFUaESeTFBRmEnDHZ0Bek+AAZitrfYo=
-github.com/libdns/hetzner v0.0.2-0.20240819042430-7c70fbb078a0 h1:JcVrIK7E15+nMaf4qlVxIcPfuu+4sK9GTZGffRsSqZk=
-github.com/libdns/hetzner v0.0.2-0.20240819042430-7c70fbb078a0/go.mod h1:zBA7coNLXqqIe9bzW5cuzkwnqN1HXJoeiVTPnA4WBZk=
 github.com/libdns/libdns v0.2.2 h1:O6ws7bAfRPaBsgAYt8MDe2HcNBGC29hkZ9MX2eUSX3s=
 github.com/libdns/libdns v0.2.2/go.mod h1:4Bj9+5CQiNMVGf87wjX4CY3HQJypUHRuLvlsfsZqLWQ=
 github.com/libdns/rfc2136 v0.1.1 h1:GKh2r08xt4aYeGlXR9eFrJMfFKD5i9QHBOpT1FIww/U=
