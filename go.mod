@@ -4,7 +4,7 @@ go 1.22.3
 toolchain go1.24.1
 
 require (
-	github.com/caddy-dns/cloudflare v0.0.0-20240703190432-89f16b99c18e
+	github.com/caddy-dns/cloudflare v0.1.0
 	github.com/caddy-dns/directadmin v0.3.2
 	github.com/caddy-dns/rfc2136 v0.2.0
 	github.com/caddyserver/caddy/v2 v2.9.1
@@ -66,7 +66,7 @@ require (
 	github.com/jackc/puddle/v2 v2.2.1 // indirect
 	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.10 // indirect
-	github.com/libdns/cloudflare v0.1.2-0.20240604123710-0549667a10ab // indirect
+	github.com/libdns/cloudflare v0.1.3 // indirect
 	github.com/libdns/directadmin v0.3.2 // indirect
 	github.com/libdns/libdns v0.2.3 // indirect
 	github.com/libdns/rfc2136 v0.2.0 // indirect
