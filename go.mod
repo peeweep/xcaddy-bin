@@ -6,7 +6,6 @@ toolchain go1.24.2
 
 require (
 	github.com/caddy-dns/cloudflare v0.1.0
-	github.com/caddy-dns/directadmin v0.3.2
 	github.com/caddy-dns/rfc2136 v0.2.0
 	github.com/caddyserver/caddy/v2 v2.9.1
 )
@@ -68,7 +67,6 @@ require (
 	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.10 // indirect
 	github.com/libdns/cloudflare v0.1.3 // indirect
-	github.com/libdns/directadmin v0.3.2 // indirect
 	github.com/libdns/libdns v0.2.3 // indirect
 	github.com/libdns/rfc2136 v0.2.0 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
